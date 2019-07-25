@@ -1,0 +1,7 @@
+D:\GITHUB\CuocBDHN\CuocBDHN\CuocBDHN\bin\CuocBDHN.dll
+D:\GITHUB\CuocBDHN\CuocBDHN\CuocBDHN\bin\CuocBDHN.pdb
+D:\GITHUB\CuocBDHN\CuocBDHN\CuocBDHN\bin\DaoCuocBDHN.dll
+D:\GITHUB\CuocBDHN\CuocBDHN\CuocBDHN\bin\DaoCuocBDHN.pdb
+D:\GITHUB\CuocBDHN\CuocBDHN\CuocBDHN\obj\Debug\CuocBDHN.csprojResolveAssemblyReference.cache
+D:\GITHUB\CuocBDHN\CuocBDHN\CuocBDHN\obj\Debug\CuocBDHN.dll
+D:\GITHUB\CuocBDHN\CuocBDHN\CuocBDHN\obj\Debug\CuocBDHN.pdb

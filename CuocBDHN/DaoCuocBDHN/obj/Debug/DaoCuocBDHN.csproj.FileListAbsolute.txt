@@ -1,0 +1,4 @@
+D:\GITHUB\CuocBDHN\CuocBDHN\DaoCuocBDHN\bin\Debug\DaoCuocBDHN.dll
+D:\GITHUB\CuocBDHN\CuocBDHN\DaoCuocBDHN\bin\Debug\DaoCuocBDHN.pdb
+D:\GITHUB\CuocBDHN\CuocBDHN\DaoCuocBDHN\obj\Debug\DaoCuocBDHN.dll
+D:\GITHUB\CuocBDHN\CuocBDHN\DaoCuocBDHN\obj\Debug\DaoCuocBDHN.pdb
