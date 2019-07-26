@@ -40,6 +40,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CuocCod\daCuocCod.cs" />
+    <Compile Include="Cuoc\daCuoc.cs" />
+    <Compile Include="DanhMucDichVuCongThem\datblDMDichVuCongThem.cs" />
+    <Compile Include="DanhMucDichVuDacBiet\datblDMDichVuDacBiet.cs" />
+    <Compile Include="DanhMucHuyen\datblDanhMucHuyen.cs" />
+    <Compile Include="DanhMucKhachHang\datblDMKhachHang.cs" />
+    <Compile Include="DanhMucTinh\datblDanhMucTinh.cs" />
+    <Compile Include="DanhMucVungCuoc\datblDMVungCuoc.cs" />
+    <Compile Include="DanhMucXa\datblDanhMucXa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
